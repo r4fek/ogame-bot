@@ -1,0 +1,3 @@
+mechanize
+BeautifulSoup
+watchdog
