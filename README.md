@@ -3,6 +3,18 @@ ogame-bot
 
 Intelligent BOT playing in Ogame
 
+Features
+========
+
+* building buildings
+* transporting resources
+* SMS notifications about incoming attack(s)
+* sending messages to attacker
+* fleet save
+* farming (hell yeah!)
+* sending expeditions
+* and many more!
+
 Usage
 =====
 
